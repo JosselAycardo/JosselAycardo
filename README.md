@@ -28,5 +28,5 @@ Bachelor of Science in Information Technology
 
 <h3 align="left">You may reach me at:</h3>
 
-LinkedIn: [Jossel Aycardo](https://www.linkedin.com/in/jossel-aycardo-6158a92a3/)                                                                                                              
-Email: [Jossel.Aycardo06@gmail.com](Jossel.Aycardo06@gmail.com)
+LinkedIn: [Jossel Aycardo](https://www.linkedin.com/in/jossel-aycardo-6158a92a3/)                                                                                                                                                                                                             
+Email: [Jossel.Aycardo06@gmail.com](https://mail.google.com/mail/u/1/?hl=en#inbox)
