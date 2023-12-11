@@ -1,4 +1,4 @@
-<h1 align="center"><img src="371458383_1540140116753134_4807811675570622185_n.jpg" width = "200" height ="200"></h1>
+
 
 <h1 align="center">Hi 👋, I'm Jossel Aycardo</h1>
 <h3 align="center">Greetings! I'm Jossel Aycardo devoted to programming and knowledgeable about database administration. I'm great at solving difficult problems and get great satisfaction from creating elegant solutions. My academic journey reflects a commitment to learning and adapting, essential traits in the dynamic tech industry. I approach each coding task with enthusiasm, eager to contribute innovative and effective solutions in my student capacity.</h3>
