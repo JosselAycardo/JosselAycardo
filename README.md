@@ -20,6 +20,7 @@ Bachelor of Science in Information Technology
 
 [Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=DBB0728058AF638F20DB4F0B9778E7713FAD3632FFFF9160CD34F8A8A04C02DB)
 
+[NoSQL and DBaaS 101](https://courses.cognitiveclass.ai/certificates/90e673262d7e4c76a002eb339e540691)
 
 
                                                                                                                                                                                                                                                                                                                                                            
